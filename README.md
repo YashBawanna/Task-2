@@ -1,2 +1,2 @@
 # Task-2
-Diversity and Inclusion dashboard and storytelling via power BI
+Sales dashboard and storytelling via power BI
